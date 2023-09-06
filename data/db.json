@@ -3,49 +3,49 @@
     {
       "id": 1,
       "title": "Flagship 60029 Maina Mansion",
-      "Price": 12000000,
+      "price": 12000000,
       "location": "Goa"
     },
     {
       "id": 2,
       "title": "Baga Heritage Resort Near Anjuna Beach",
-      "salary": 22000000,
+      "price": 22000000,
       "location": "Goa"
     },
     {
       "id": 3,
       "title": "Flagship 60029 Maina Mansion",
-      "Price": 123000000,
+      "price": 123000000,
       "location": "Goa"
     },
     {
       "id": 4,
       "title": "Baga Heritage Resort Near Anjuna Beach",
-      "salary": 14000000,
+      "price": 14000000,
       "location": "Goa"
     },
     {
       "id": 5,
       "title": "Flagship 60029 Maina Mansion",
-      "Price": 16000000,
+      "price": 16000000,
       "location": "Goa"
     },
     {
       "id": 6,
       "title": "Baga Heritage Resort Near Anjuna Beach",
-      "salary": 16000000,
+      "price": 16000000,
       "location": "Goa"
     },
     {
       "id": 7,
       "title": "Flagship 60029 Maina Mansion",
-      "Price": 120000008,
+      "price": 120000008,
       "location": "Goa"
     },
     {
       "id": 8,
       "title": "Baga Heritage Resort Near Anjuna Beach",
-      "salary": 120000004,
+      "price": 120000004,
       "location": "Goa"
     }
   ]
